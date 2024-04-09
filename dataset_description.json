@@ -1,4 +1,3 @@
-	
 {
     "Name": "Simultanous Brain and SpinalCord: and fMRI dataset during resting-state",
     "BIDSVersion": "1.6.0",
@@ -6,14 +5,14 @@
     "License": "CC0",
     "Authors": [
         "Caroline Landelle",
-         "Nawal Kinany",
-          "Benjamin De Leener",
-           "Nicholas D. Murphy",
-           "Ovidiu Lungu",
-           "Véronique Marchand-Pauvert",
-           "Dimitri Van De Ville",
-           "Julien Doyon"
-        ],
+        "Nawal Kinany",
+        "Benjamin De Leener",
+        "Nicholas D. Murphy",
+        "Ovidiu Lungu",
+        "Véronique Marchand-Pauvert",
+        "Dimitri Van De Ville",
+        "Julien Doyon"
+    ],
     "Acknowledgements": "We thank David Costa, Ronaldo Lopez and Soheil Mollamohseni Quichani for their help in data acquisition and all participants who were recruited for this study",
     "HowToAcknowledge": "Please cite this paper: XXX",
     "Funding": [
@@ -25,9 +24,8 @@
         "Healthy Brain for Healthy Lives (HBHL, Grant No. 2473633)"
     ],
     "EthicsApprovals": [
-      "The experiment was approved by the local ethics committee (MUCH REB 2019-4626)"
+        "The experiment was approved by the local ethics committee (MUCH REB 2019-4626)"
     ],
-   
-    "DatasetDOI": "XX",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005075.v1.0.0",
     "HEDVersion": ""
 }
