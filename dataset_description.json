@@ -1,5 +1,5 @@
 {
-    "Name": "Simultanous Brain and SpinalCord: and fMRI dataset during resting-state",
+    "Name": "Simultaneous Brain and Spinal Cord at rest: an fMRI dataset",
     "BIDSVersion": "1.6.0",
     "DatasetType": "raw",
     "License": "CC0",
